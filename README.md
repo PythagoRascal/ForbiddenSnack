@@ -16,3 +16,6 @@ Shhhhh...be real quiet, my wife is sleeping and I'm not allowed to snack between
 ### **Controls:**
 - **Mouse:** interact
 - **E:** show ingredients
+
+### **Play here:**
+http://pythagorascal.github.io/ForbiddenSnack/
